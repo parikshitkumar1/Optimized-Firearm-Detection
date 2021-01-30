@@ -37,7 +37,7 @@ $ python3 yolo_detection_video.py
 
 ## Real-time result:
 
-<img src="/video_result.gif" data-canonical-src="" width="800" height="500" />
+<img src="https://user-images.githubusercontent.com/52780573/106359872-511ce300-633b-11eb-9c7a-b8024d2203c5.gif" data-canonical-src="" width="800" height="500" />
 
 ## Might Do
 - [ ]
