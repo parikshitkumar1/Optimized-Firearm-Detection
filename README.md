@@ -24,7 +24,7 @@ $ python3 video.py
 ```
 ## To run in real-time
 ```python
-$ python3 yolo_detection_video.py
+$ python3 realtime.py
 ```
 
 ## Image result:
