@@ -20,7 +20,7 @@ $ python3 images.py
 ```
 ## To run for videos
 ```python
-$ python3 yolo_detection_video.py
+$ python3 video.py
 ```
 ## To run in real-time
 ```python
