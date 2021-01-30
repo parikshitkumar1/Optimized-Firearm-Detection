@@ -2,7 +2,7 @@
 # Firearm_Detector_v2
 
 ## Motivation
-To detect firearms and enhance capabilities of cctv based security systems
+To detect firearms and enhance capabilities of cctv based security systems, in images, videos, and in real time.
 
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
