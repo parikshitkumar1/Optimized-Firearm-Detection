@@ -16,7 +16,7 @@ $ pip3 install -r requirements.txt
 
 ## To run for images
 ```python
-$ python3 yolo_detection_images.py
+$ python3 images.py
 ```
 ## To run for videos
 ```python
