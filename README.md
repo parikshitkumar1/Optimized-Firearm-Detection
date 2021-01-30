@@ -43,6 +43,6 @@ $ python3 realtime.py
 
 ## Might Do
 - [ ] Try out Yolo v4 and v5
-- [ ] Add training notebook
+- [ ] Add training notebook to the repository
 ----
 
